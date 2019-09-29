@@ -2,3 +2,16 @@
 
 # Recipes
 A collection of cooking recipes...
+
+## Template
+The _main.tex_ file controls settings and links to the recipes that are kept in separate tex-files.
+
+For each recipe, a new tex-file has to be created in the folder [part] (e.g. Desserts)
+
+Pictures are kept in the folder [Pictures]/[part]
+
+## Structure
+The structure can be changed if the current is not feasible for organising recipes.
+
+__Parts__ are overarching topics like startes, main courses, or desserts.
+Each part is subdivided into __chapters__ that contain recipes as __sections__.
