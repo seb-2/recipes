@@ -1,0 +1,26 @@
+% main file for recipe collection - compile this to creat the document
+% contents/recipes don't go into this file but are included from other .tex files
+
+
+\documentclass[11pt,paper=a4]{scrbook}
+\parindent0pt  \parskip10pt             % make block paragraphs
+\usepackage{graphicx} % enable use of /includefigure to display pictures
+
+
+\begin{document}
+\include{FrontBackmatter/Titlepage}
+
+\tableofcontents                        % Print table of contents
+
+
+\part{Starters}
+
+\part{Main courses}
+
+\part{Desserts}
+\chapter{Baking}
+\textit{Everything that goes into the oven...} % Chapter description
+
+\include{Desserts/Macarons}
+
+\end{document}
