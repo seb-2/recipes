@@ -15,3 +15,5 @@ The structure can be changed if the current is not feasible for organising recip
 
 __Parts__ are overarching topics like startes, main courses, or desserts.
 Each part is subdivided into __chapters__ that contain recipes as __sections__.
+
+more contributors are welcome!
