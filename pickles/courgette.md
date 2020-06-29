@@ -1,3 +1,4 @@
+# curry-courgettes
 day 1: 
 - wash, peel, and dice 2 kg of courgettes (dice about 2cm)
 - 1 cup of onion rings (cut fresh onions), 0.5 cups of salt: mix with courgettes
